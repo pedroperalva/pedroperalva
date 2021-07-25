@@ -1,8 +1,8 @@
 # Hi. I'm Pedro Peralva. 👋
 
-### I have a degree in civil engineering and a postgraduate degree in administration and am in career transition.
+### I have a degree in civil engineering and a postgraduate degree in administration and am in career transition. 🎓
 
-### In 2021 I decided to go back to study and decided to move to the development area. I've always been passionate about technology and for the first time I decided to study something I really like and I'm very motivated.
+### In 2021 I decided to go back to study and decided to move to the development area. I've always been passionate about technology and for the first time I decided to study something I really like and I'm very motivated. 🖥
 
 ### My skills are:
 
