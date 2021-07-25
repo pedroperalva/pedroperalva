@@ -4,7 +4,7 @@
 
 ### In 2021 I decided to go back to study and decided to move to the development area. I've always been passionate about technology and for the first time I decided to study something I really like and I'm very motivated. 🖥
 
-### Linkedin Profile: [https://www.linkedin.com/in/pedro-peralva/]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pedro-peralva/)
 
 ### My skills are:
 
