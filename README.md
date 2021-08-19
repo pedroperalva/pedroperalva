@@ -8,6 +8,7 @@
 
 ### My skills at the moment:
 
+- React.JS
 - HTML
 - CSS
 - JavaScript
@@ -16,6 +17,7 @@
 - Node.JS
 - MVC architecture
 - Rest API
+
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=pedroperalva)
 
