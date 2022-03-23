@@ -1,13 +1,12 @@
 # Hi. I'm Pedro Peralva. 👋
 
-### I have a civil engineering degree and a postgraduate administration degree. Now I'm in career transition. 🎓
-
-### In 2021 I decided to go back to studies and move to the development area. I've always been passionate about technology and for the first time I decided to study something I like and I'm very motivated. 🖥
+### I love front-end development.
 
 ### Linkedin profile: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pedro-peralva/)
 
 ### My skills at the moment:
 
+- Vue.JS
 - React.JS
 - HTML
 - CSS
@@ -15,7 +14,6 @@
 - Docker
 - MySQL
 - Node.JS
-- MVC architecture
 - Rest API
 
 
