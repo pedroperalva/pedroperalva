@@ -15,6 +15,11 @@
 - MySQL
 - Node.JS
 - Rest API
+- Vuex
+- Redux Saga
+- SASS
+- Vuetify
+- Bootstrap
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=pedroperalva)
