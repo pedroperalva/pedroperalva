@@ -8,9 +8,11 @@
 
 - Vue.JS
 - React.JS
+- Angular.JS
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - Docker
 - MySQL
 - Node.JS
