@@ -6,6 +6,7 @@
 
 ### My skills at the moment:
 
+- Next.JS
 - Vue.JS
 - React.JS
 - Angular.JS
@@ -14,7 +15,7 @@
 - JavaScript
 - TypeScript
 - Docker
-- MySQL
+- PostgreSQL
 - Node.JS
 - Rest API
 - Vuex
