@@ -14,15 +14,17 @@
 - CSS
 - JavaScript
 - TypeScript
+- Tailwind
 - Docker
 - PostgreSQL
 - Node.JS
 - Rest API
 - Vuex
-- Redux Saga
+- Redux
 - SASS
 - Vuetify
 - Bootstrap
+- ChakraUI
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=pedroperalva)
