@@ -17,20 +17,14 @@
 - Tailwind
 - Docker
 - PostgreSQL
+- Nest.JS
 - Node.JS
-- Rest API
 - Vuex
 - Redux
 - SASS
 - Vuetify
 - Bootstrap
 - ChakraUI
-
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=pedroperalva)
-
-
-
 
 <!--
 **pedroperalva/pedroperalva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
