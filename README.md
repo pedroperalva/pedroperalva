@@ -1,7 +1,5 @@
 # Hi. I'm Pedro Peralva. 👋
 
-### I love front-end development.
-
 ### Linkedin profile: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pedro-peralva/)
 
 ### My skills at the moment:
